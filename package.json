@@ -1,0 +1,14 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "main": "function.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "testdouble": "^3.16.6",
+    "testdouble-jest": "^2.0.0"
+  }
+}
